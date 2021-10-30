@@ -1,0 +1,10 @@
+1.Chen H, Liu X, Yin D, et al. A survey on dialogue systems: Recent advances and new frontiers[J]. Acm Sigkdd Explorations Newsletter, 2017, 19(2): 25-35.
+2.Huang M, Zhu X, Gao J. Challenges in building intelligent open-domain dialog systems[J]. ACM Transactions on Information Systems (TOIS), 2020, 38(3): 1-32.
+3.Gao J, Galley M, Li L. Neural approaches to conversational ai[C]//The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2018: 1371-1374.
+4.Ni J, Young T, Pandelea V, et al. Recent Advances in Deep Learning-based Dialogue Systems[J]. arXiv preprint arXiv:2105.04387, 2021.
+5.Adiwardana D, Luong M T, So D R, et al. Towards a human-like open-domain chatbot[J]. arXiv preprint arXiv:2001.09977, 2020.
+6.Ma L, Li M, Zhang W N, et al. Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey[J]. ACM Transactions on Information Systems (TOIS), 2021, 40(1): 1-44.
+7.Tao C, Feng J, Yan R, et al. A Survey on Response Selection for Retrieval-based Dialogues[C]. IJCAI, 2021.
+8.陈晨, 朱晴晴, 严睿, 等. 基于深度学习的开放领域对话系统研究综述[J]. 计算机学报, 2019, 42(7): 1439-1466.
+9.Li J, Tang T, Zhao W X, et al. Pretrained Language Models for Text Generation: A Survey[J]. arXiv preprint arXiv:2105.10311, 2021.
+
